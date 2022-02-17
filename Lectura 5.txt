@@ -1,0 +1,1 @@
+No subiré notas de la lectura 3 ya que es un tutorial de Oracle y voy a pasar estas notas a Python 3.
